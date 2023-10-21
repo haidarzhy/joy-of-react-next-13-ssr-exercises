@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@uidotdev/usehooks": "^2.4.0",
     "date-fns": "2.28.0",
     "immer": "10.0.2",
     "next": "13.5.2",
